@@ -1,0 +1,13 @@
+# Maven
+log/
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+dist
+bin/
+.vscode-test
